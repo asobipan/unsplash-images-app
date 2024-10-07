@@ -9,4 +9,4 @@
 - npm install
 - npm run dev
 
-[Site overview](https://app.netlify.com/sites/golden-cupcake-318245/overview)
+[Site overview](https://golden-cupcake-318245.netlify.app)
